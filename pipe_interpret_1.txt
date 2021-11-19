@@ -1,0 +1,38 @@
+The NLC2019 dataset consists of noisy natural language instructions given to personal assistant AIs by users, and a clear, unambiguous simplification of their instructions based on available contextual information. We provide ten of the most difficult examples below.
+---
+Context:
+"The user's name is Shona. She is vegan, has a friend called John Fairbank, and a friend called Lydia Chao."
+
+Original instruction:
+"I feel like a cheap burger , hail a cab tell John to meet me there. itll be a quarter hour for me to get ready . if John cant come call Lyds. Actually no tell them both."
+
+Clarified instruction:
+"Find the location of a cheap burger joint. Call a taxi. Message John Fairbank and Lydia Chao to meet at the location in fifteen minutes."
+---
+Context:
+"User is a student who lives in a small room and likes annotating books."
+
+Original instruction:
+"So there's, for the, um, Ok Google, for the class I'm taking I need to read that old book by Lewis Carroll with the rabbit in it, and I need a new vacuum cleaner. My neighbour keeps complaining about the noise"
+
+Clarified instruction:
+"Order 'Alice in Wonderland' by Lewis Carroll. Order a vacuum cleaner that is compact and produces little noise."
+---
+Context:
+"None."
+
+Original instruction:
+"Hey Quber I wanna go on a picnic . Invite all my frieends and we'll go h unting for mushrooms add that to my calendar. oh tell me if it'll rain?"
+
+Clarified instruction:
+"Display information about local edible mushroom species. Display information about the weather. If the user confirms, message all friends of the user inviting them on a picnic. Add picnicking and hunting for mushrooms to the calendar. "
+---
+Context: 
+"The user asked about booking a hotel in Paris recently."
+
+Original instruction:
+"So how expensive would it be? Can I just get the same experience at home?"
+
+Clarified instruction:
+"Display information about the rate per night for hotels in Paris. Display information about Parisian themed venues nearby."
+---
