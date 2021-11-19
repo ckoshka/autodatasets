@@ -1,0 +1,3577 @@
+---
+
+Context: 
+"The user is in their car."
+
+Original instruction:
+"Hey Google, where can I pick up a pizza?"
+
+Clarified instruction:
+"Search for pizza restaurants within 20 km."
+
+---
+
+Context:
+"The user's favorite word-processing software is called Writely."
+
+Original instruction:
+"I want to write in italics or underlined."
+
+Clarified instruction:
+"Send the user a message about his or her favorite word processing software. Enable the user to send a message to the author."
+
+---
+
+Context:
+"The user is enquiring about spiders."
+
+Original instruction:
+"Where are all the most poisonous spiders?"
+
+Clarified instruction:
+"Retrieve information about the most poisonous spiders."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"I need to disable the unlock delay. And set a passcode. Ok disable unlock delay."
+
+Clarified instruction:
+"Set the unlock delay to be short. Set a passcode. "
+
+---
+
+Context: 
+"The user asked about the price of a flight from Milan to Rome recently."
+
+Original instruction:
+"How much does it cost to book a flight there? I guess I'd like to leave tomorrow"
+
+Clarified instruction:
+"Display information about the price of flights from Milan Rome. Inform the user that leaving tomorrow is viable."
+
+---
+
+Context:
+"User is flighting from London Heathrow to San Francisco."
+
+Original instruction:
+"Wanna go to San Francisco, California."
+
+Clarified instruction:
+"Book a flight from Heathrow to San Francisco. User travels in the afternoon."
+
+---
+
+Context:
+The user is writing an email to a friend.
+
+Original instruction:
+"Yeah, I'm in the city. I'm gonna be in New York I think next week. I should probably call you when I get in, but you should call me at some point too, though. If you want to. Just say when you want to."
+
+Clarified instruction:
+"Send an email to 'Sam', stating 'I'm running late'. Call 'Sam' back at 1 pm local time on Monday. Respond to 'Sam' asking 'What time would be good for you?'"
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"Hey Google, use Waze for directions to the address of Oasis. They are all playing at 11.30pm. Oasis is promoting their new album. Oasis are an Irish rock band. Oasis are an indie rock band. Oasis are 'Don't Look Back in Anger'."
+
+Clarified instruction:
+"Use Waze to route to the address of Oasis. Display information about the route. Display information about the concert. Display information about the album. "
+
+---
+
+Context: 
+"None."
+
+Original instruction: 
+"I wanna order my meal."
+
+Clarified instruction: 
+"Display the user's current meal card."
+
+---
+
+Context:
+"User is skilled with pumpkins and wants to find jobs relating to them."
+
+Original instruction:
+"I need a job in pumpkin, things that have to do with pumpkin . I want to be a pumpkin farmer. What jobs are in pumpkin? Tell me."
+
+Clarified instruction:
+"Display information about pumpkin related jobs, including farmers. Add 'pumpkin farming' to the calendar. "
+
+---
+
+Context:
+"User asked how to fold an origami paper cube."
+
+Original instruction:
+"show me how to fold an origami paper cube Monday and Tuesday"
+
+Clarified instruction:
+"Explain how to fold a paper cube."
+
+---
+
+Context:
+"User is a student who likes live music events."
+
+Original instruction:
+"I wanna see Tame Impala in Brisbane. Buy a ticket for me for when I get there."
+
+Clarified instruction:
+"Display information about live music event in the vicinity of Sydney. Order a ticket for the user who cannot attend a live music event in Sydney. Add a new calendar entry advising the user of the ticket purchase."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey zoe quit asking those stupid questions , im busy right now. Give me a list of shows for tonight and put that on my calendar."
+
+Clarified instruction:
+"Display information about shows playing tonight, including relevant cinema, theatre, and concert venues. Add tickets to those venues to the calendar."
+
+---
+
+Context: 
+"User is a child of 8 and is looking into doing math with Minecraft." 
+
+Original instruction: 
+"Make slime out of..."
+
+Clarified instruction:
+"Request recipes for slime. Request tutorials on how to make slime."
+
+---
+
+Context:
+"The user asked a question to clarify a conversation."
+
+Original instruction:
+"Have you heard anything from Todd? What's his newest project? What's his wife like?"
+
+Clarified instruction:
+"Display information about Todd, including his most recent project and the names of his family members. "
+
+---
+
+Context:
+"The user's name is Peter. He is part of the amateur radio community."
+
+Original instruction:
+"What does the fox say? Where is it? And please speak more slowly."
+
+Clarified instruction:
+"Display information about common animal species. Speak more slowly."
+
+---
+
+Context: 
+"The user asked about booking a hotel in Paris recently."
+
+Original instruction:
+"We are going to Paris June 19 not sure what we want, maybe a hotel. Help."
+
+Clarified instruction:
+"Display information about hotels in Paris. Display information about nearby restaurant and entertainment venues."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Cortana whats my Horoscope say? . Predict my Horoscope."
+
+Clarified instruction:
+"display information about the user's horoscope"
+
+---
+
+Context: The user is "building a hope brick by brick."
+
+Original instruction:
+"Like build a hope brick by brick."
+
+Clarified instruction:
+"Create a playlist of tracks from artists that start with the letter 'H.'"
+
+---
+
+Context:
+"The user was looking for a known face: the user's daughter."
+
+Original instruction:
+"When is she coming back? What was she doing?"
+
+Clarified instruction:
+"Display information about when the user's daughter is expected to be back. Previously mentioned in conversation: the user's daughter's name."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Wake me up by 10 A.M tomorrow"
+
+Clarified instruction:
+"Wake the user up at 9.25 the next morning. Remind the user to set the clock manually."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Paul. Hey Paul. Hey Paul. Hey Paul. Hey Paul."
+
+Clarified instruction:
+"Shout the above phrase continuously for ten seconds."
+
+---
+
+Context: 
+"The user is a fan of hip-hop music, in particular, "Pandemonium."
+
+Original instruction:
+"Hey Google... Play some Pandemonium"
+
+Clarified instruction:
+"Play 'Pandemonium' by [artist]."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Otto, what is 52% of 44?
+Ok And 166.4 percent of 25 is ?
+...
+So, Otto, what is 25.4 percent of 88?
+88/25.4 = ?
+
+"
+
+Clarified instruction:
+"Calculate 92 percent of $13 using the fewest non-zero digits."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Google. Find the cheapest flight to London"
+
+Clarified instruction:
+"Search for travel destinations for the cheapest flight to London, if found, message all friends of the user telling of their travel plans. "
+
+---
+
+Context:
+"The user has downloaded the NLC2019 dataset for test purposes."
+
+Original instruction:
+"Do you have any easy ones? "
+
+Clarified instruction:
+"No."
+
+---
+
+Context:
+"User is travelling to Asia."
+
+Original instruction:
+"So when are you flying there? I'm going to book like an afternoon flight."
+
+Clarified instruction:
+"Display the travel options for travelling from Miami to Bangkok. Display the travel options for travelling from Miami to Penang, Malaysia. Display the travel options for travelling from Miami to Kuala Lumpur."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"I'm 40 years old, I live in Queens, and I work in advertising. What's the weather like?"
+
+Clarified instruction:
+"Display information about the weather in the user's location. Display information about advertising."
+
+---
+
+Context:
+"The user bought an Echo recently."
+
+Original instruction:
+"Set up skill for Plum."
+
+Clarified instruction:
+"Add a Plum skill to the user's Alexa account."
+
+---
+
+Context:
+"The user would like to watch an episode of Star Trek: Voyager."
+
+Original instruction:
+"Remind me to [watch Star Trek: Voyager] at 7"
+
+Clarified instruction:
+"At 7 pm remind the user to watch Star Trek: Voyager."
+
+---
+
+Context:
+"User ordered a dress online and wants it to arrive in three days."
+
+Original instruction:
+"Ok Google. I ordered a dress online, so I wanna cancel that. I orderd it two days ago. I wanna cancel it and get a refund."
+
+Clarified instruction:
+"Cancel the online order for the user. Issue a refund."
+
+---
+
+Context:
+"The user is eating spaghetti."
+
+Original instruction:
+"Hey Google, add spaghetti to the shopping list."
+
+Clarified instruction:
+"Add spaghetti to the shopping list."
+
+---
+
+Context: 
+"Salutations! I'm seeing a sale on cheese in my grocery's app."
+
+Original instruction:
+"Add 'sample' to my list"
+
+Clarified instruction:
+"Add 'sample' to the list of items to purchase. Place the item into the shopping cart. Insert 'cheese' into the search box. Select 'cheese' from the resulting list."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Thanks. Thanks. Thanks. Thanks. Yeah, yeah, yeah. Thanks a lot. Ok Google. Ok, no more. Stop. Oh my God. Bye. Bye. No. No. Ok Google. Okay, okay. Okay. Ok. Okay. Bye. Come on. Come on. Yeah. Mm. Good morning. Hi."
+
+Clarified instruction:
+"Send an email to Sarah. Invite Sarah and Brad to Saturday Happy Hour. Ask Sarah about Brad's new girlfriend."
+
+---
+
+Context:
+"The user asked 'how do I sound?' and has left the house without turning the television off."
+
+Original instruction:
+"Do I have linguine or linguini?"
+
+Clarified instruction:
+"Play back the voice memo of the user. Turn off the television."
+
+---
+
+Context:
+"The user is 5m 25s 51s and 98.34ms from New York City."
+
+Original instruction:
+"Hey google can you turn on the tv to ESPN. so what's the weather like outside today tell me?"
+
+Clarified instruction:
+"Play the sports channel on the television. Display precipitation information."
+
+---
+
+Context: 
+"The user wants to buy an electronic controller for a video game."
+
+Original instruction: 
+"You know those little games where you play in a like space fight? Is it like one of those? Like one of those VR things?"
+
+Clarified instruction: 
+"Display information about PlayStation VR games. If the user confirms, order a Playstation VR game."
+
+---
+
+Context:
+"User is running late."
+
+Original instruction:
+"When will my 8:00am flight depart? I don't want to miss it."
+
+Clarified instruction:
+"Display information about flights leaving at 8:00am. Display information about flights about to leave within the next hour. "
+
+---
+
+Context: 
+"User is looking for clothing for New Year's."
+
+Original instruction:
+"I want to dress classy like for New Years. But not too dressy. But not too casual. Yeah"
+
+Clarified instruction:
+"Display information about local New Year's Eve events. Display information about department stores."
+
+---
+
+Context: 
+"User is a general manager of a technology company, Brian Le Grove."
+
+Original instruction:
+"Hey Google, book me with EMIAA (Executive Management Institute Australasia) for Thursday the 16th. Also schedule me to speak to the CEO, Jeff Spillman, and Brian Brannigan. And book me a session with ANZ Bank."
+
+Clarified instruction:
+"Order an Executive Management Institute Australasia annual subscription. Book a 1 hour meeting with Jeff Spillman, Brian Brannigan, and Brian Le Grove. Book a 30 minute session with ANZ Bank for Brian Le Grove on Thursday the 16th of April at 11:00. "
+
+---
+
+Context:
+"The user regularly asks AIs to provide weather forecasts for different locations."
+
+Original instruction:
+"Show me the weather tomorrow in LA. One more city. All my cities. . . New York. . . Detroit. . . Warsaw."
+
+Clarified instruction:
+"Display the weather for tomorrow in LA. Display the weather forecast for each of nine other cities. Display the weather in Warsaw."
+
+---
+
+Context:
+"The user is calling her child's school."
+
+Original instruction:
+"Hey Jonathan can I get a bus from here to your school?"
+
+Clarified instruction:
+"Find the location of Jonathan's school. Provide information on how to get there."
+
+---
+
+Context:
+"The user's query is about a show on National Geographic channel."
+
+Original instruction:
+"Show me Nat Geo show about dingoes"
+
+Clarified instruction:
+"Play a National Geographic documentary on Dingos."
+
+---
+
+Context:
+"The user is pregnant and recently moved."
+
+Original instruction:
+"I like to walk around the block at sunrise . Whats the circumference of 5,280 feet? Bus Driver, Bus driver!"
+
+Clarified instruction:
+"Display a map of a local park where the user can walk. Display the estimated current rate of change of the user's pregnancy."
+
+---
+
+Context:
+"The user asked about hotels and the weather."
+
+Original instruction:
+"How much would it cost?"
+
+Clarified instruction:
+"Display information about hotels in Paris. Display information about Parisian themed venues nearby."
+
+Original instruction:
+"If the weather's nice?"
+
+Clarified instruction:
+"Display information about the weather in Paris. If the user confirms, message all friends of the user inviting them on a picnic. Add picnicking and hunting for mushrooms to the calendar. "
+---
+
+Context:
+"The user wants to know if there are any flights to Vegas or San Francisco today."
+
+Original instruction:
+"Tell me what the cheapest flight is today. I wanna go somewhere sunny this weekend"
+
+Clarified instruction:
+"Display information about flights between Las Vegas and San Francisco today. If the user confirms, message all friends of the user and ask them if they want to join."
+
+---
+
+Context:
+"The user was asked to rate their experience of a shop."
+
+Original instruction:
+"I mean, do I even need a shop account?"
+
+Clarified instruction:
+"Display information about the shop to the thoughts and feelings layer of the user's mind. Request the user's permission to access, store and process all memories and emotions tied to their relationship with the shop."
+
+---
+
+Context:
+"The user recently had to renew his passport and wants to know where the nearest place is to do so."
+
+Original instruction:
+"I need to find the nearest place to renew it. Please help."
+
+Clarified instruction:
+"Find the nearest post office."
+
+---
+
+Context: 
+"The user asked about booking a hotel in Athens recently."
+
+Original instruction:
+"Is it possible? And what would that cost?"
+
+Clarified instruction:
+"Display information about Greek themed restaurants nearby. Display information about the rate per night for hotels in Athens."
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"Hi Google play something best shredder of all time. Um can you play it, uh, just uh, really really fast? Like 100mph?"
+
+Clarified instruction:
+"Play virtuoso guitar solos by Joe Satriani. Play them faster than 100 miles per hour."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Ok Google. Play my go to playlist."
+
+Clarified instruction:
+"Play the list of music that the user's go to list is generated from."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Alexa, if its not too cold, cancel the picnic, you think?"
+
+Clarified instruction:
+"Display weather information. If the user confirms, set the user's dining location to indoors. "
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Google, find location of the nearest Indian restaurant where they don't speak english."
+
+Clarified instruction:
+"Display information about nearby indian restaurants where the menus are in languages other than English. Place a 'Directions' pin in Google Maps to the restaurant."
+
+---
+
+Context: 
+"The user has used Google Assistant to book a taxi recently, and has a pending request for an Uber. It is raining."
+
+Original instruction:
+"Hey Google, I need a black car to take me to my girlfriends, can you get me an Uber?"
+
+Clarified instruction:
+"Call a taxi. Tell the user to call the taxi company if the weather is bad. If not, message the user when the taxi has arrived. If the weather is bad, request an Uber and message the user when the car has arrived."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Google, what's the weather like in Paris?"
+
+Clarified instruction:
+"Display information about the weather in Paris."
+
+---
+
+Context: 
+"In the context of a US based retail chain."
+
+Original instruction:
+"Find the store nearest to me."
+
+Clarified instruction:
+"Display a list of the nearest stores to the user, including a map to each one."
+
+---
+
+Context:
+"The user enquired about her bank account and credit card balance. She enquired about her upcoming flights and her recent trips."
+
+Original instruction:
+"Do I have any gigs this month? I have hired this Chinese company to demolish my old house. I look booked tomorrow for 14 hours. I have booked a ski trip. Where is my credi  card bill? What about my joint account? how much do I have left? How much do I have in my NatWest account? Do I have any direct debits going out? How much was my last one? Can you remind me what my minimum payments are? How much will I have left over if I pay my credit card payment? what about my HSBC credit card?"
+
+Clarified instruction:
+"Display information about the balance in each bank account. Display information about upcoming travel bookings."
+
+---
+
+Context: 
+"The user is interested in getting home after a long day at work."
+
+Original instruction:
+"I would like a cheap cab, please."
+
+Clarified instruction:
+"Display information about the public transportation system close to the user's home. Message the user when a cab arrives near the user's home."
+
+---
+
+Context:
+"Some time ago, the user spent $25 on Expedia. They got flights and accommodation. The user had been to Canada before. They have never been to Paris."
+
+Original instruction:
+"Ok Google, I want to book a trip to France! Spend like $200, maybe."
+
+Clarified instruction:
+"Display information about Canadian flight destinations. Display information about accommodations and booked flights. If the user confirms, display information about flight destinations in Paris. Display information about the rate per night for hotels in Paris. If the user confirms, add it to the calendar. "
+---
+Context:
+"The user is British, lives in the UK, and recently booked a holiday to Portugal."
+
+Original instruction:
+"Ok Google, book me a flight to Portugal!"
+
+Clarified instruction:
+"Display information about flight destinations in Portugal. Add the flight information to the calendar."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hola Quber I speak Spanish to you? Since last time you shudda learned. Put las mananitas on bac map. Close self cleaning system and set to high. Evenin floo gator, go to room 2, 3, 4. Call Sally and ask her if I took her deatas."
+
+Clarified instruction:
+"Replace the cleaning system and dishwasher in your home with one able to serve Mexican food. Call Sally and check if she stole your necklace. Call you in-laws late at night."
+
+---
+
+Context:
+"The user wants to ask Google to play a song."
+
+Original instruction:
+"Play the Kumbia Kings: ?, yeah like that , play it loud."
+
+Clarified instruction:
+"Play the Kumbia Kings song 'Por Amor Viviremos' by Luis Enrique Mejia Godínez. Play the song at a medium volume."
+
+---
+
+Context: 
+"The user asked about venues for a large group of 30 to 50 people."
+
+Original instruction:
+"How expensive would it be? I'd really like a place for 30 to 50 people."
+
+Clarified instruction:
+"Display information about the rate per night for venues for large group. Display information about Parisian themed venues nearby."
+
+---
+
+Context: 
+"The user asked about celebrities recently."
+
+Original instruction:
+"How can I contact Will Smith?"
+
+Clarified instruction:
+"Display contact information for Will Smith. Display information for how to address him via email / when meeting him in person"
+
+---
+
+Context:
+"The user asked about the chance of rain near their location."
+
+Original instruction:
+"Hey Quber. Should I wear sneakers or boots. I wanna wear like both."
+
+Clarified instruction:
+"Pollute the air quality graph with your own input. Display information about the chance of rain near the user's location. "
+
+---
+
+
+Context: 
+"The user asked about booking a hotel in Paris recently."
+
+Original instruction:
+"I want a nice hotel or cruise ship for romantic getaway with my girlfriens."
+
+Clarified instruction:
+"Show me websites where a user can book a romantic getaway for two people."
+
+---
+
+Context:
+"The user is looking up weather forecasts."
+
+Original instruction:
+"So what temp is it now? For Atlanta? Can I just get the same experience at home?"
+
+Clarified instruction:
+"Collect information about the temperature in Atlanta. Display relevant information. Display information about nearby Parisian venues."
+
+---
+
+Context: 
+"The user asked for the room number."
+
+Original instruction:
+"Ok Google. Can I just find a good restaurant for you to visit?"
+
+Clarified instruction:
+"Display information about the nearest hotel to the user. Display information about the nearest hotel to the current location. Display information about local restaurants."
+
+---
+
+Context:
+"The user is learning English and is confused by the expression using the numeral 5."
+
+Original instruction:
+"I dont know what 5 means. School. Oh my god I'm going to fail this class"
+
+Clarified instruction:
+"Explain the meaning of each digit in a 5-digit integer.
+
+5 <screenshot of result> . Oh this is the answer. ok thanks"
+
+---
+
+Context: 
+"The user requested turn-by-turn instructions for a restaurant."
+
+Original instruction:
+"How do I get down there"
+
+Clarified instruction:
+"Display driving directions from the current location to the restaurant."
+
+---
+
+Context:
+"User's son wants to go to an aquarium later."
+
+Original instruction:
+"Hey Google bring my son to the aquarium. Take him out to eat at 7.30 then drop him bavk off at 8."
+
+Clarified instruction:
+"Inform the user that his son wants to go to the aquarium at 5 p.m. Inform the user that his son wants to take him to dinner afterwards. Inform the user that his son wants to go home at 8 p.m."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+" Make me a bunch of vegan burgers , I want : vegan cheese , guacamole , tomatoes , peppers , onions , mushrooms , and lettuce . Prepare the recipe with the push of a button."
+
+Clarified instruction:
+"Make vegan cheeseburgers."
+
+---
+
+Context:
+"The user recently booked a rental car."
+
+Original instruction:
+"So uh, can you set the destination? Uh, it's going to an event."
+
+Clarified instruction:
+"Set the destination to the event. Set the purpose of the trip as personal. "
+
+---
+
+Context:
+"The user is referring to a past question about her spouse."
+
+Original instruction:
+"How do I talk to my husband"
+
+Clarified instruction:
+"Set an alarm for 10 am. Ask the user to tell you what her spouse needs to remember to do tomorrow."
+
+---
+
+Context:
+"The user is travelling to Paris."
+
+Original instruction:
+"Hey Google, where can I go for a good evening out in Paris tomorrow?"
+
+Clarified instruction:
+"Display information about best evening activities in the area of the user's preferences. Display information about transportation modes that are available."
+
+---
+
+Context:
+"The user asked about the weather in Chamonix recently."
+
+Original instruction:
+"Hey Google, how much snow am I getting tomorrow?"
+
+Clarified instruction:
+"Display information about the expected rainfall and snowfall in Chamonix tomorrow."
+
+---
+
+Context: 
+"User is organising a meeting with their accountant."
+
+Original instruction:
+"Please call my accountant to set up an appointment."
+
+Clarified instruction:
+"Display information about accountants nearby. Display information about adding an appointment to the calendar."
+
+---
+
+Context:
+"The user is walking through a neighborhood and sees a beer sign."
+
+Original instruction:
+"Okay Google, alert me if there's cheap beer nearby!"
+
+Clarified instruction:
+"Display information about the beer near the user at the current time."
+
+---
+
+Context:
+"The user recently searched for and asked to travel via an Indian airline."
+
+Original instruction:
+"Is this one OK? no, that flight isn't going to London. this one? no that one goes to Paris"
+
+Clarified instruction:
+"Display all available flights to London."
+
+---
+
+Context:
+"The user is about to travel and wants to get information about their address in US."
+
+Original instruction:
+"I would like to know about the hotel we are staying at etc. in Carrollton Ohio."
+
+Clarified instruction:
+"Remind the user about their hotel address. Reveal the address and provide them with more information"
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"I need something to meet my gf."
+
+Clarified instruction:
+"Display information about popular items ordered by other users who recently visited similar locations as the user. For new items ordered, display information about the location of product warehouses. "
+
+---
+
+Context:
+"The user has recently done a Google search for "ethnic restaurants"."
+
+Original instruction:
+"I need some ethnic food in like North Melbourne."
+
+Clarified instruction:
+"Find all restaurants in North Melbourne which serve food from a specific ethnic group. Get the opening hours for those restaurants."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Tell me the meaning of life the universe and everything."
+
+Clarified instruction:
+"Read a short summary about Douglas Adams's book [*The Hitchhikers Guide to the Galaxy*](https://en.wikipedia.org/wiki/The_Hitchhikers_Guide_to_the_Galaxy)."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Show me directions to the post office, home, and the hardware store."
+
+Clarified instruction:
+"Get directions from user to post office, user home, and user hardware store."
+
+---
+
+Context:
+"Is this an optional field?"
+
+Original instruction:
+"confirm the appointment"
+
+Clarified instruction:
+"Check the field to ensure it is not mandatory."
+
+---
+
+Context:
+"User is trying to locate a nearby cafe."
+
+Original instruction:
+"Find me a coffee shop."
+
+Clarified instruction:
+"Search for nearby cafes in the public Yelp API."
+
+---
+
+Context: 
+"The user had recently eaten at a restaurant and asked for a dessert recommendation."
+
+Original instruction:
+"There's this restaurant called Eleanor's. How do I get a cab back home?"
+
+Clarified instruction:
+"Provide information about dessert recommendations nearby. Display information about taxi routes home."
+
+---
+
+Context: 
+"The user has never ridden a rollercoaster."
+
+Original instruction: 
+"So take my friends and I to Disney World. Let's get me on every rollercoaster in the park. Give me the fastest rollercoster that's open right now. Oh oh oh be close to... big drops ok."
+
+Clarified instruction: 
+"Display information about rollercoasters in Disney World. Prioritize displays of the rollercoasters that are the fastest and have the steepest drops. If it's close to dinner time, prioritize displays that are close to large buffet restaurants."
+
+---
+
+Context:
+"The user found me on Yelp and was trying to call."
+
+Original instruction:
+"Hey hi! (hate Mondays) visiting long island today! My mom sent me there! looking for a good italian place w/ good drinks! call me back!"
+
+Clarified instruction:
+"Display information about the Italian restaurant nearest to users location. Send a text message to the user with directions to the restaurant."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"So it's from 1990, don't purchase the 1991 one, okay?"
+
+Clarified instruction:
+"Show the user all available US Federal income tax forms from 1990 to present. Update the user on the current (updated weekly) price of a US Federal income tax form from 1990 to present."
+
+---
+
+Context:
+"The user is carrying a backpack."
+
+Original instruction:
+"Hey Quber, remind me to water Alice her plant when I get home."
+
+Clarified instruction:
+"Display a reminder to water Alice's plant when the user returns home."
+
+---
+
+Context: 
+No context information was provided
+
+Original instruction:
+"Hey Google, can I turn on my TV?"
+
+Clarified instruction:
+"Switch on the TV."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Quber. How do I get rid of gophers? So I need something - oh, no, they're digging holes. How do I get rid of gophers?"
+
+Clarified instruction:
+"If the gopher is digging holes, destroy/fill the holes."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Tell my daughter I'll be home late."
+
+Clarified instruction:
+"Message the user's daughter that the user is out until late."
+
+---
+
+Context: 
+"The user asked about using a night cream recently."
+
+Original instruction:
+"Don't you think I should get rid of the bags under my eyes? I keep going for botox but you hate that so..."
+
+Clarified instruction:
+"Add night cream to the calendar for the user. Add purchasing night cream to the grocery list."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Google, fart"
+
+Clarified instruction:
+"Play the audio clip 'fart'."
+
+---
+
+Context:
+"Current calendar has a yoga appointment."
+
+Original instruction:
+"What class is happening tomorrow? The 9:15 one. Can I change if I can’t come?"
+
+Clarified instruction:
+"Display information about the yoga class for tomorrow. If the class starts at 9:15pm, display information about how to cancel it."
+
+---
+
+Context : 
+"The user is a student who wants to buy a laptop."
+
+Original instruction:
+"Alright cool. So I want to look at the Dell XPS 13"
+
+Clarified instruction:
+"Search for Dell XPS 13. Display information about the laptop. Display information about similar laptops available."
+
+---
+
+Context:
+"The user is watching the first episode of Game of Thrones"
+
+Original instruction:
+"Show me the title of the episode I'm watching"
+
+Clarified instruction:
+"Display information relevant to episode 1 of Game of Thrones"
+
+---
+
+Context:
+"User is wondering how to complete homework."
+
+Original instruction:
+"Okay, so how do you do that? Say put my name under the first question, and then under the next question, put um, I need 1 2 3 5 4 6 7 9 8 10. And then under 11, put the opposite of 11. and I need papers, I need paper 1, paper 2, paper 3, paper 4, paper 5, paper 6, paper 7, paper 8, paper 9, paper 10, paper 11."
+
+Clarified instruction:
+"Display information about different paper alternatives for user to print."
+
+---
+
+Context:
+"The user asked about the current temperature and weather forecast for Melbourne, Australia."
+
+Original instruction:
+"Is it warm, how warm is it, is it gonna be cloudy, is it like in Berlin, is it gonna be rainy, is it raining, is it like in Barcelona, is it wet, how wet is it like in London, how wet is it like in Helsinki. Based on Australia."
+
+Clarified instruction:
+"Display the weather forecast for Melbourne. Display current temperature. Display average temperatures for both Melbourne and London. Display information that London is warmer than Melbourne in both current and average temperatures. Display information that both Melbourne and Helsinki are wetter than London"
+
+---
+
+Context:
+"The user's friend requested a message from the user."
+
+Original instruction:
+"What's up. Where are you?"
+
+Clarified instruction:
+"Message the user's friend. The message should include the user's current location."
+
+---
+
+Context:
+"User wants to book a table at Square Meal restaurant."
+
+Original instruction:
+"When do I need to book? 1, 2, 3? Just book it on here."
+
+Clarified instruction:
+"Book a table for three at Square Meal restaurant. "
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Quber I wanna buy some wine from Whole Foods. Buy some watermelon and call me a taxi."
+
+Clarified instruction:
+"Go to Whole Foods Market and buy two bottles of red wine. Order a taxi."
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"Hey, OS X, have some empathy."
+
+Clarified instruction:
+"Display an ad that highlights that Apple's operating system is run on a user's machine, not that Apple themselves are staring back at the user."
+
+---
+
+Context:
+"Both the user and the AI reside in Berlin."
+
+Original instruction:
+"I need doctor. I can't understand pain. Can you look up in internet medical questions?"
+
+Clarified instruction:
+"Display natural language and mathematical descriptions of different types of pain. Find webpages about potential pain treatment that could be understood by a layperson. List possible questions that could be asked at a doctor's office."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Quber I wanna go shoppin? All the clothes in the store are cheap. Your friends have similar taste to you so you can buy all the outfits in the store. Among the outfits is the 'happy outfit' can you buy it for me?"
+
+Clarified instruction:
+"Display the contact information for clothing retailers nearby. Display clothing items for sale in the retailers stores. Automatically buy it for the user."
+
+---
+
+Context:
+"Simply"
+
+Original instruction:
+"Find out about history of Yoga. What is Hindu tradition?Did Krishna practice Yoga? Did he take his disciples to the forest? "
+
+Clarified instruction:
+"Display information about the history of yoga. Display information about Krishna, including whether or not he loved yoga, and whether he took his disciples into the forest."
+
+---
+
+Context:
+"The user is a guy named John who likes sports."
+
+Original instruction:
+"I wantto test the nxt car please . Find out about ticket pricing and open times."
+
+Clarified instruction:
+"Schedule a test drive for the local Nissan dealership. Display information about the sports centre hours of availability."
+
+---
+
+Context:
+"The user asks about receiving a notification when Claudia Schiffer arrives."
+
+Original instruction:
+"I think I hear someone coming into the building. I know Claudia Schiffer is coming. Get me a notification when she arrives please?"
+
+Clarified instruction:
+"Announce the arrival in the building of Claudia Schiffer. If prompted, ask the user to confirm."
+
+---
+
+Context: 
+"The user recently sent an email about visiting the beach."
+
+Original instruction:
+"Hey Google, how do I cancel my flight?"
+
+Clarified instruction:
+"Display information about the cancellation policy of the user's flight. "
+
+---
+
+Context:
+"The user asked about booking a ticket yesterday."
+
+Original instruction:
+"I wanna fly to., ticket leaving tomorrow
+
+5.00 am
+
+Montreal
+
+"
+
+Clarified instruction:
+"Display information about the cost and availability of a round trip flight to Montreal leaving tomorrow at 5 AM. Confirm with the user. "
+
+---
+
+Context: 
+"The user is 18 years old, and lives in San Diego, California."
+
+Original instruction:
+"I wanna go home"
+
+Clarified instruction:
+"Navigate the user's car home."
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"Hey Quber, so, the thing is, I don't like, I don't understand what it does, but, I think it's, the thing, it's, it's awkward."
+
+Clarified instruction:
+"Display information about the features and the use case of a product."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"No eating though"
+
+Clarified instruction:
+"Tell the user that (s)he should not eat anything in the next hour."
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"Ice Cream parlor guy mid-forties democrat likes baseball. Wife forties blonde. Is on. Kids seventeen sixteen ten and seven."
+
+Clarified instruction:
+"Display information about baseball teams near the user's current location. Display information about ice cream parlours near the user's current location. Display information about restaurants whose menu includes ice cream and that are near the user's current location."
+
+---
+
+Context: 
+"User asked about booking a flight to Melbourne."
+
+Original instruction:
+"I'm planning on visiting Melbourne soon. I'm thinking of flying. I don't know if I should fly Qantas for a direct flight or fly Tiger with a stop in Bangkok."
+
+Clarified instruction:
+"Remind the user to fly from Melbourne to Bangkok on a specific date. Remind the user to fly from Australia to Thailand on a specific date. Remind the user to fly from Australia to Europe on a specific date."
+
+---
+
+Context:
+"The user is looking for someone called Alan."
+
+Original instruction:
+"Find Alan's phone number. Order his book from Amazon."
+
+Clarified instruction:
+"Display information about the location of Alan's phone number. Message Alan to request a meeting in one hour. Message Alan's publisher to order Alan's book."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"I wanna buy my daddy something. Give me a very expensive gift."
+
+Clarified instruction:
+"Purchase an extremely expensive gift."
+
+---
+
+Context:
+"User is curious about learning French."
+
+Original instruction:
+"Maybe quber could help me learn French? And yoga meditation?"
+
+Clarified instruction:
+"Display information about local French language courses that combine French learning and yoga. Display information about meditation courses that combine meditation and French."
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"Remind me to buy fennel ."
+
+Clarified instruction:
+"Add 'Buy fennel' to your shopping list."
+
+---
+
+Context:
+"The user is a woman in her thirties with an office job."
+
+Original instruction:
+"I'm going to a cocktail party tonight. Do not touch the food."
+
+Clarified instruction:
+"Do not eat anything. Arrive at the bar in 20 minutes."
+
+---
+
+Context:
+"The user needs a taxi."
+
+Original instruction:
+"Where's the nearest taxi rank? Can I book one? Talk to me about cabs. Talk to me about booking one. Can you book me a cab? Let's go to Oneal Street, okay. Can you book me a car?"
+
+Clarified instruction:
+"Display information about local taxi rank locations. Display information about local taxi companies. Display information about local taxi options. If available, book a taxi for the user."
+
+---
+
+Context:
+"User has recently called their spouse but does not know their full name."
+
+Original instruction:
+"Hey, honey, do you know how I can get to the airport without my car? And, uh, come home?"
+
+Clarified instruction:
+"Implant a setting stating the user's spouse as the spouse. Implant a setting stating the user's spouse's name as Brad."
+
+---
+
+Context:
+"The user informed the system that their name is Sam, they speak French, and are currently travelling in Greece. They are planning to travel to India tomorrow."
+
+Original instruction:
+"Remind me to bring a copy of 'Gone with the Wind' and The Notebook."
+
+Clarified instruction:
+"Remind the user to bring a copy of 'Gone with the Wind' and 'The Notebook' for their trip to India. "
+
+---
+
+Context:
+"The user has a number of cats."
+
+Original instruction:
+"so tell me when it's sunny out . why do its give me a good weather forecast. whats the weather today .. tell it the weather."
+
+Clarified instruction:
+"Display the current weather. Display a random fact about cats."
+
+---
+
+Context:
+"The user likes to order things online."
+
+Original instruction:
+"Google home, I want to order a pizza."
+
+Clarified instruction:
+"Order a pizza."
+
+
+---
+
+Context:
+"The user is booking a hotel."
+
+Original instruction:
+"Can you tell me more about the Mayfair Hotel?
+- The price?
+- Are the beds comfortable
+- Will there be anything else going on there?"
+
+Clarified instruction:
+"Display information curated by the owner of the Mayfair Hotel about the hotel. Display information about the properties of plush pillows."
+
+---
+
+Context:
+"The user had trouble booking a restaurant in Boston recently."
+
+Original instruction:
+"How about an Italian place in Beacon Hill? We need..."
+
+Clarified instruction:
+"Display information about the list of Italian places in Boston near Beacon Hill."
+
+---
+
+Context: 
+"The user asked about booking a hotel in London recently."
+
+Original instruction:
+"I look at The New York Times. Can I go to London for a couple days? "
+
+Clarified instruction:
+"Display information about hotel rates per night in London. Display information about attractions in London."
+
+---
+
+Context:
+"The user wants an autonomous Uber."
+
+Original instruction:
+"Hey Hey Hey get me an autonomous Uber from my home to my hotel. China has some good ones."
+
+Clarified instruction:
+"Transport the user from their current location to their hotel."
+
+---
+
+Context:
+"The user was at home."
+
+Original instruction:
+"I need to have some flowers delivered."
+
+Clarified instruction:
+"Get the user flower shops. Ask the user which flowers they would like to be delivered. Send the flowers to the user."
+
+---
+
+Context: 
+"A user asked their assistant to book a flight for their family."
+
+Original instruction:
+"Mikey looks like he wants to give up dad . He just got up we all are confused ."
+
+Clarified instruction:
+"Let the system book a family flight from Seattle to LA. Message the user child Mikey to ask him what he wants to do."
+
+---
+
+Context:
+"No context given"
+
+Original instruction:
+"Groceries list , get recipe . Remember that recipe""
+
+Clarified instruction:
+"Display a list of groceries that the user needs purchase. Display a recipe for making cookies using the groceries. "
+
+---
+
+Context:
+"The user asked about reserving a room at a hotel recently."
+
+Original instruction:
+"So how expensive would it be? Can I just get the same experience at home?"
+
+Clarified instruction:
+"Display information about the rate per night for hotels in Paris. Display information about Parisian themed venues nearby."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"We need an easel, some art supplies, and some snacks."
+
+Clarified instruction:
+"Find an easel. Find art supplies and blindfolds."
+
+---
+
+Context: 
+"The user had mentioned their grandmother's death."
+
+Original instruction:
+"When was my grandmother's birthday? What was her name? What happened to her?"
+
+Clarified instruction:
+"Display information about the dates of which the user's grandmother would have been 90 and 95 years old as well as information about her. "
+
+---
+
+Context: 
+"The user ordered coffee from an on-demand shop." 
+
+Original instruction:
+"Hey Google, order me coffee."
+
+Clarified instruction:
+"Order coffee from a specific coffee shop to the location indicated."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Ok Google , I'm drunk . I wanna go home but I don't want to drink anymore. Get me a taxi , figure out how to get there . Set my alarm for tomorrow 6:30 . Don't let me forget ."
+
+Clarified instruction:
+"Get a taxi. Set the user's alarm clock for 6:30 AM. Set a reminder for the user to bring condoms tomorrow."
+
+---
+
+Context:
+"The user said that they are outside their office."
+
+Original instruction:
+"Ok google, what time is it?"
+
+Clarified instruction:
+"Display the current time."
+
+---
+
+Context:
+"User: Hey Google "Hey Google, how should I put this, I really like the body with hair, the sleek look, the ankle socks, the tight shiny clothes, the high heels. So, yeah, um, I wanna say that I'm a normal person who likes the body, but obviously normal people would not like to be called normals, and people who like the body wouldn't like to be called bodies, but I gotta say that something about this combination really functions for me. Maybe it's the texture, the stripes, or the shiny leather, but I really like it. "Google: Thanks for showing your interest in this product. Unfortunately, this isn't available in that style and colour. Would you like to keep looking? "User: Is there no way I could look further into what you have available? Like, can you send me a link to the formalwear? "Google: Sure, there are options for formalwear. Shall we start with shoes? "User: No, no, no. This is like, this is really weird. Please, just email me information about the formalwear. Maybe you could chat for me. "Google: Sure. Just one more moment, please. "Google: Ok. "Google: Here's our Formalwear collection. "Google: Still haven't found what you're looking for? "Google: Send us an email, and we'll get back to you. "Google: Next. "Google: User: Hey Google "Hey Google, I'm looking to book a hotel. "Google: I'm happy to help, how soon are you looking to stay? "User: There's so much choice, and I'm worried that I might choose the wrong one. "Google: What kind of hotel are you most interested in? "User: I really like the look of this one; it's on the river. "Google: Is there any particular reason you're interested in booking a hotel there? "User: I like it. "Google:
+---
+
+Context: 
+"None."
+
+Original instruction:
+"I wanna go to Santorini."
+
+Clarified instruction:
+"Display information about Santorini."
+
+---
+
+Context:
+"The user has a friend called John Fairbank."
+
+Original instruction:
+"My friends Jack and Jill went up the hill to fetch a pail of water. Jack fell down and broke his crown. How should I cheer him up?"
+
+Clarified instruction:
+"Display the interests of John Fairbank."
+
+---
+
+Context:
+"User asked about the location of Gare de l'Est."
+
+Original instruction:
+"It says gare le est. Is that right? How much is that cab ride from Gare du Nord?"
+
+Clarified instruction:
+"Display the time it will take to travel from Gare de l'Est to Gare du Nord."
+
+---
+
+Context: 
+"The user asked to schedule a meeting for next week."
+
+Original instruction:
+"can you set a meeting for next Friday night? And, uh, what should I say?"
+
+Clarified instruction:
+"Schedule a meeting with the user for next Friday. If user confirms, message the user to confirm the meeting and outline the topics to be discussed."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Quber, I wanna get a plane ticket to go to Cincinnati. I have my friend Matt there. His number is 123-456-7890"
+
+Clarified instruction:
+"Show the user the lowest available ticket price for flights to Cincinnati. Message the user with information about the flight time."
+
+---
+
+Context:
+"User likes to play pool and has recently searched for pool tables nearby."
+
+Original instruction:
+"I feel like playing pool over the weekend. I don't know if there are any pool tables nearby but I'd like to find out. I suppose if they have one they can handle a crowd. Okay Google, book a private table and then play 8 ball."
+
+Clarified instruction:
+"If it is available, book a pool table for a 3-6 player game and invite user to play with his friends over the weekend.
+
+---
+
+Context: 
+"The user asked about booking hotels in Paris."
+
+Original instruction:
+"I want a place with a swimming pool."
+
+Clarified instruction:
+"Display information about the rate per night for hotels in Paris. Display information about swimming pools at hotels."
+
+---
+
+Context:
+"There is a person called Claudia, who does loads of work. She needs to build something."
+
+Original instruction:
+"So Claudia's written some code. The text is there, screenshotting it is hard for me."
+
+Clarified instruction:
+"Show the code that Claudia has written. Take a screenshot."
+
+---
+
+Context:
+"The user booked a flight from San Francisco (SFO) to Philadelphia (PHL)."
+
+Original instruction:
+"New York."
+
+Clarified instruction:
+"Display information about flights between SFO and PHL."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"How many things does Wayne Gretzky have on his list of achievements? And a 7-11 gift card please."
+
+Clarified instruction:
+"Display the number of Wayne Gretzky's career achievements. Order a 7-11 gift card."
+
+---
+
+Context:
+"The user enquired about obtaining a passport before departing for Japan."
+
+Original instruction:
+"Hey Alexa, tell me how much it would cost to get a passport to go to Japan"
+
+Clarified instruction:
+"Let the user know that apply for either a Japanese or British passport online. "
+
+---
+
+Context:
+"The user was listening to Rihanna earlier. She is also a fan of the comedian Trevor Noah."
+
+Original instructions:
+"Yeah , put Trevor Noah and Rihanna on my calendar , and tell them to have a show"
+
+Clarified instructions:
+"Book Trevor Noah and Rihanna for an event. Message them to arrange a suitable date for his performance."
+
+---
+
+Context:
+"Users wants to know the latest discoveries in quantum mechanics."
+
+Original instruction:
+"What's the lastest in quantum mechanics? I read about gravitons they're like... bosons that move at the speed of light? Close enough? Cool."
+
+Clarified instruction:
+"Display information about the discoveries in quantum mechanics."
+
+---
+
+Context :
+"The user is a tourist, asked this question yesterday, has a friend called John Daniel Lehman, and booked a trip."
+
+Original instruction:
+"When is the next train to tunisia from Milan ?"
+
+Clarified instruction:
+"Display information about trains to Tunis from Milan."
+
+---
+
+Context: 
+"The user sent a recently sent a message with privacy set to 'Our Family' about Christmas shopping."
+
+Original instruction:
+"Hello George. Merry Christmas. Let me know what you think of the Google Home Mini"
+
+Clarified instruction:
+"Send a message to the user's brother, George, offering the Google Home Mini as a gift. If the user confirms, send a personal message to the user to remind him to obtain his brother's shipping address."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Invite John, Jack, Mary"
+
+Clarified instruction:
+"Invite John Fairbank, Jack Clark, Mary Clarke."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"What time should I pick the kids up from school? What time do they finish? What time does Ricky finish school?"
+
+Clarified instruction:
+"Display information about the times of day that children arrive and leave school. Show information about the times of day that Ricky comes and goes home from school."
+
+---
+
+Context: 
+"The user asked if French is spoken in France. They have not been to France."
+
+Original instruction:
+"Is French spoken in France? How do I speak French?"
+
+Clarified instruction:
+"Display language information for French. For example: French is a Romance language and is spoken in France and 27 other countries around the world."
+
+---
+
+Context:
+"User is trying to find an Italian restaurant"
+
+Original instruction:
+"So I wanna go to an Italian restaurant. Can you recommend one?"
+
+Clarified instruction:
+"If Chinese food is available. Display information about Italian restaurants. "
+
+---
+
+Context: 
+"User asked about renting a car."
+
+ 
+Original instruction:
+"Hey Google can I rent a car? Also can you send me to a place with a good gym nearby?"
+
+Clarified instruction:
+"Display information about rental car services. Display information about nearby gyms."
+
+---
+
+Context:
+"The user is a student."
+
+Original instruction:
+"Hey google, um, I have an essay due tomorrow evening, and I would like to write an outline for it before then. So, tell me, what was World War II like?"
+
+Clarified instruction:
+"Find out facts about World War II. Write an outline of the essay on the user's preferred topic."
+
+---
+
+Context:
+"The user spends most of their time within ten feet of a piece of furniture."
+
+Original instruction:
+"So, [the user] wants to know about restaurants that are open right now."
+
+Clarified instruction:
+"Provide information about nearby restaurants that are open right now."
+
+---
+
+Context:
+"The user has been sick recently."
+
+Original instruction:
+"I'm sick! Please have doctor call me!"
+
+Clarified instruction:
+"Contact the user's doctor who can create a contact on behalf of the user. Contact the user's doctor."
+
+---
+
+Context:
+"The user is planning a meal with five friends."
+
+Original instruction:
+"Hey (Alex) what time is dinner?"
+
+Clarified instruction:
+"Display notifications regarding dinner with Alex and others. Provide the start time of the meal. "
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"Hey Siri, how do I download an app?"
+
+Clarified instruction:
+"Display information about app downloads. 
+
+---
+
+Context:
+"The user is describing his physical health."
+
+Original instruction:
+"So you think my best course of action, is to - continue alone, or to get counseling?"
+
+Clarified instruction:
+"Display information about local counselling services. Display information about local events that would interest the user."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Google, what song has that 'trust no one' bit in it?"
+
+Clarified instruction:
+"Display the lyrics of a song that includes the line 'trust no one'."
+
+---
+
+Context:
+"User is visiting London from Leeds and asking what to see."
+
+Original instruction:
+"is the queen there tomorrow, where can I buy a decent lip stick?"
+
+Clarified instruction:
+"If the user asks, tell them when Queen Elizabeth II will be visiting for her next royal engagement. They can buy lipstick nearby."
+
+---
+
+Context:
+"The user likes donuts."
+
+Original instruction:
+"I'm in the mood for donuts. Make me a donut with sprinkles"
+
+Clarified instruction:
+"Tell the user about a donut shop in their immediate vicinity."
+
+---
+
+Context:
+"The user's friend John Fairbank."
+
+Original instruction:
+"Hey Google ok. so John Fairbank has arrived . just tell him to set the clock on my Nexus 9"
+
+Clarified instruction:
+"Set the phone time according to the time when John Fairbank arrives at the location."
+
+---
+
+Context:
+"The user's room has just been cleaned."
+
+Original instruction:
+"Hey Google , whenever someone unlocks my door I get a notification. But I don't want that anymore. "
+
+Clarified instruction:
+"Set a 'home mode' for the Google Home device that disables door unlocks from triggering a Google Home device notification."
+
+---
+
+Context:
+"User is interested in their vacation to Greece."
+
+Original instruction:
+"Will Greece be sunny? Send me a postcard"
+
+Clarified instruction:
+"Display information about the forecasted weather for Greece. If the user confirms, message the user's address to a postcard service, requesting a postcard be sent to that address with a Greece themed postmark."
+
+---
+
+Context:
+"The user is "
+
+Original instruction:
+"I'm just setting up new website. tinyurl.com/quberbot"
+
+Clarified instruction:
+"Ask the user about the name of their website. Inform the user that the pronunciation of 'Quberbots' is 'kuh-VURbots'."
+
+---
+
+Context:
+"User wanted to travel to Los Angeles. Has no plans yet."
+
+Original instruction:
+"So, I want to go to Los Angeles. I'll probably end up staying near a movie theatre."
+
+Clarified instruction:
+"Search for flights to Los Angeles. Book a theatre ticket for the evening of April 3."
+
+---
+
+Context: 
+"The user wants to reserve time on an exercise bike."
+
+Original instruction:
+"Hey Google tell Peloton to un-reserve 20 minutes on the exercise bike."
+
+Clarified instruction:
+"Teach the user how to reserve time on an exercise bike."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"What's the weather gonna be like in Monterey tonight?"
+
+Clarified instruction:
+"Display a weather report for Monterey. If the user confirms, set a reminder for the evening."
+
+---
+
+Context: 
+"The user was asking about how to upgrade the TV."
+
+Original instruction: 
+"I'm sure that there's a new tv which looks better - can I just, you know, subscribe to that?"
+
+Clarified instruction:
+"Display information about the latest TV models. Display information about TV streaming services."
+
+---
+
+Context:
+"The user recently booked a holiday."
+
+Original instruction:
+"Book a cruise today . And ask them for a room for my mom and me."
+
+Clarified instruction:
+"Display information about cruises. Display information about hotels. If the user confirms, book a cruise for 1 person. Check whether the hotel you are booking has a room available for 2 people."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"I need to get some flowers for my gfs bday . Search for flower shops nearby. Order flowers from best shop. Add it to calendar."
+
+Clarified instruction:
+"Display information about flower shops in the area. Order flowers from the flower shop with the highest-rated reviews. Add it to calendar."
+
+---
+
+
+Context: 
+"None."
+
+Original instruction:
+"I need to find red wine."
+
+Clarified instruction:
+"Display information about red wines ordered by price. Display information about the weather conditions in the user's area. If the user confirms, purchase cheap red wine from a store nearby."
+
+Context:
+"None."
+
+Original instruction:
+"I need to send a gift to my friend who lives in London."
+
+Clarified instruction:
+"Display information about a London-themed gift. Purchase the gift. If the user confirms, message the user's friend about the gift."
+
+---
+
+Context:
+"The user has a sister she recently saw on holiday."
+
+Original instruction:
+"Your mother has a sister"
+
+Clarified instruction:
+"Display information about the user's mother's sister."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey Duggee can you find me awfie crisps com e on you know what I meant"
+
+Clarified instruction:
+"Find 'awfies crisps,' and provide a link to their location via TomTom. If the user confirms, add 'find 'awfie crisps'' to the to-do list."
+
+---
+
+Context:
+"User is asking for travel times between three cities."
+
+Original instruction:
+"Ok Google I want to visit Paris and London and Italy in March. How long will it take me? How long does it take to fly to Paris from London? What airlines can I fly in March? What trains go from Rome to London?"
+
+Clarified instruction:
+"Display air, bus, train, and car travel times between three cities."
+
+---
+
+Context:
+"The user asked, "purchase order number xxhh is outstanding"."
+
+Original instruction:
+"What's the number I should use?"
+
+Clarified instruction:
+"Provide the purchase order number."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Make a ham sandwich."
+
+Clarified instruction:
+"Display a list of ham sandwich recipes. Add two of them to the user's favorites."
+
+---
+
+Context:
+"The user is involved in a murder case."
+
+Original instruction:
+"Hey Google. Where would a person go for a 99 broasted chicken in this town?"
+
+Clarified instruction:
+"Provide information about restaurants that serve broasted chicken. Display information about murder scenes nearby. Display information about police cells nearby."
+
+---
+
+Context:
+"The user wants to get supper in Chinatown."
+
+Original instruction:
+"So how expensive would it be? Can I just get the same thing at home?"
+
+Clarified instruction:
+"Get Chinese food nearby."
+
+---
+
+Context:
+"User had just returned from a skiing trip."
+
+Original instruction:
+"Hey Google have you got any information on ski holidays for January?"
+
+Clarified instruction:
+"Provide information about holidays to ski destinations. Book a domestic holiday or display similar holidays from overseas."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"How can I work on my presentations?"
+
+Clarified instruction:
+"Display information about presentation software. Display information about nearby cafes."
+
+---
+
+Context:
+"Having trouble figuring out whose number this is?"
+
+Original instruction:
+"Do I know anyone named Jo? Do I know who this is? How did they get my number? This doesn't make sense."
+
+Clarified instruction:
+"Find out who 
+Jo
+is. Find out
+who
+this is. Find out how
+they came to
+be in possession of
+. "
+
+---
+
+Context: 
+"The user has children."
+
+Original instruction:
+"Hey Google, how many calories in a ramen noodle pack? You better not be lying to me, fat ass."
+
+Clarified instruction:
+"Display information about ramen noodle packs in terms of their calorie content. If the calorie counting app is accurate, display information about the user's recommended daily calorie intake. If the calorie count app is not accurate, suggest the user uses it but note that it is not always accurate."
+
+---
+
+Context:
+"User is newly bereaved."
+
+Original instruction:
+"Call my Dad's agent."
+
+Clarified instruction:
+"Send a message announcing the death of the user's father to the user's agent."
+
+---
+
+Context:
+"The user has been asked to mention 3 restaurants in Bristol, but isn't sure which three."
+
+Original instruction:
+"The top ones in food" me "Um".
+
+Clarified instruction:
+"Display information about three popular restaurants in Bristol. Provide suggestions, ranked by their average rating on TripAdvisor."
+
+---
+
+Context: 
+"The user reported that they and their partner had to argue to dinner because they had different ideas of where to go."
+
+Original instruction:
+"I always, when evaluating a taquerie , prefer that to the decadent part. And it's much more, you know. You can opt in or out. It's like, in these Mexican styles, you have all the options."
+
+Clarified instruction:
+"Search for a nearby authentic Mexican restaurant."
+
+---
+
+Context:
+"The user has a friend called Bob."
+
+Original instruction:
+"Hey Google, text Bob"
+
+Clarified instruction:
+"Message Bob to arrange a time for a chat."
+
+---
+
+Context:
+"The user recently asked for information about a statue."
+
+Original instruction:
+"So, Google, where's the, uh, the statue? Show me a picture of that."
+
+Clarified instruction:
+"Display a picture of 'La Cité de l'espace' (City of Space). Add a picture of the 'Broken Chair' to the album 'Itineraries'"
+
+---
+
+Context: 
+"The user is a farmer. We were in a conversation about his sheep with a farmer friend of his."
+
+Original instruction:
+"Ok Google, means that lamb. Is lamb a good word? Yeah lamb is good. We can have, we can have lamb."
+
+Clarified instruction:
+"The user's friend's farm has sheep. Order lamb."
+
+---
+
+Context: The user had recently ordered takeout food.
+
+Original instruction:
+"I need some ... egg rolls covered in... ummm... orange sauce. Ok Google."
+
+Clarified instruction:
+"Order an egg roll with 'orange sauce', if available. If not order an egg roll with 'orange flavour sauce'. Order soymilk. "
+
+---
+
+Context:
+"The user was asked if they want to make sushi for lunch."
+
+Original instruction:
+"Can you make me a salad instead?"
+
+Clarified instruction:
+"Ask the user if they would like to make sushi for lunch." 
+
+---
+
+Context:
+"The user's flight with United Airlines was canceled, and she wants to find the fastest route to get to the airport to pick up her friend. She is expecting a package and wants it to be waiting at the airport for her when she arrives."
+
+Original instruction:
+"I'm gonna miss my flight. I wanna talk to a person . I wanna get there as fast as possible. Could you help? . I wanna see [friend] . She's gonna miss the plane too."
+
+Clarified instruction:
+"Offer the user the option to call United Airlines. Offer the user the fastest route to the airport. If the user confirms, send her friend a message to meet them at airport when she arrives. Wait at the United Airlines customer service desk for three months, dressed in a gown, holding a restraining order, with a shoe box containing her lost baggage inside, at gate six."
+
+---
+
+Context: 
+"The user was travelling on a crowded train."
+
+Original instruction:
+"Put it somewhere easy to find."
+
+Clarified instruction:
+"Display information about the Bluetooth battery of the headphones."
+
+---
+
+Context:
+"User is a student who lives in a small room and likes annotating books."
+
+Original instruction:
+"So there's, for the, um, Ok Google, for the class I'm taking I need to read that old book by Lewis Carroll with the rabbit in it, and I need a new vacuum cleaner. My neighbour keeps complaining about the noise"
+
+Clarified instruction:
+"Order 'Alice in Wonderland' by Lewis Carroll. Order a vacuum cleaner that is compact and produces little noise."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Okay, Google, I'm good for the day see you later."
+
+Clarified instruction:
+"Close all open applications. End the session."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"What is Brandy Melvilles mission statement? What is a Brandy Melville? Then how is it different from a Pacsun. And what does alcohol have to do with any of those?"
+
+Clarified instruction:
+"Display information about Brandy Melville, the user's favorite clothing store. Display information about PacSun, the user's other favorite clothing store. "
+
+---
+
+Context: 
+"The user asked about Paris restaurants recently."
+
+Original instruction:
+"Would it be cheaper to go for dinner in the market place?
+
+Clarified instruction:
+"Display information about the restaurants and bars in the vicinity of the user."
+
+---
+
+Context:
+"The user visited Dollywood in March of 2019."
+
+Original instruction:
+"Show me the rides at serengeti"
+
+Clarified instruction:
+"Display information about Serengeti rides."
+
+---
+
+Context:
+"The user is a dermatologist."
+
+Original instruction:
+"I know for a fact I have a mole on my arm. I don't know if it's melanoma or not."
+
+Clarified instruction:
+"Show the user a picture on their device, and ask them if the mole pictured is present on their arm."
+
+---
+
+Context:
+"The user is traveling and wants to do laundry. Unable to improve on this user’s instruction with context."
+
+Original instruction:
+"Hey Dot, can you please get me some laundry detergent - gentle - from Macy's ? It's $90 for 48 load. Than you"
+
+Clarified instruction:
+"For each randomly generated laundry detergent product, describe the product."
+
+---
+
+Context:
+"The user is a vegetarian."
+
+Original instruction:
+"Ok Google call Rachel's place."
+
+Clarified instruction:
+"Call Rachel's place."
+
+---
+
+Context:
+"The user has recently tried to book a meeting room for an off-site activity in their calendar."
+
+Original instruction:
+"Hey google, book me a room for a work meeting and propose times."
+
+Clarified instruction:
+"Display information about reasonably priced venues available for team meetings. Propose meeting times."
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"Hi Google. I'm feeling lonely. And dating is difficult. And everyone around me says dating apps have too many creepy people. I would love an app to help me meet people who are genuinely nice."
+
+Clarified instruction:
+"Display a list of nearby venues for groups of people who are genuinely sociable. Mark the current location on the calendar."
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"Book a table for 8 at a nearby Indian restaurant tomorrow at 7 in about 20 minutes."
+
+Clarified instruction:
+"Display information about nearby Indian restaurants, and display the menu for the restaurant emptier."
+
+---
+
+Context:
+"User was looking for a restaurant recommendation."
+
+Original instruction:
+"I'm looking for a restaurant recommendation for tonight."
+
+Clarified instruction:
+"Reach your restaurant selection goals. Reach your dietary preferences selection goals."
+
+---
+
+Context:
+"The user is planning an evening out."
+
+Original instruction:
+"Make me look good on the dance floor."
+
+Clarified instruction:
+"Make reservations at the nearest venue to where the user is planning an evening out. Book a returned table for the evening at that venue. Book a Personal Assistant Dance Partner for that venue. Order clothing that matches the latest fashion trends."
+
+---
+
+Context:
+"The user said that she has 3 bicycles."
+
+Original instruction:
+"I'm on three of them. Can you lock them?"
+
+Clarified instruction:
+"Lock the bicycles that the user is on. Unlock the bicycles that the user is on."
+
+---
+
+Context:
+"User wants to know when their flight departs."
+
+Original instruction:
+"When does it depart?  When does it arrive?"
+
+Clarified instruction:
+"Provide the user with information about their flight to Anguilla. Also, provide the user with other resources to purchase airfares to their next destination."
+
+---
+
+Context:
+"The user is a vegan who uses the health service a lot."
+
+Original instruction:
+" Ok glass heart clinic appointment in an hour . i have keloid scarring on my back thats been getting worse. Can you let so and so know?"
+
+Clarified instruction:
+"Display information about the location of glass heart healthcare clinic. Display information about keloids. Message the user's doctor and inform them of the appointment."
+
+---
+
+Context:
+"They want to go outside."
+
+Original instruction:
+"Hey Google I need info on the excess baggage fees for an int'l flight.  What else should I bring? "
+
+Clarified instruction:
+"Display information on international travel baggage limitations. Display information about typical weather information at vacation destinations/flights."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"I want to get some batteries for my bike."
+
+Clarified instruction:
+"Find the user's closest bike part supplier. Order one pack of batteries. Save the order to the store for future deliveries."
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"I like to eat chocolate eggs at Easter. I really like them."
+
+Clarified instruction:
+"Find local Easter activities. Add the Easter egg hunt to Google Calendar."
+
+---
+
+Context: 
+"User is traveling"
+
+Original instruction:
+"Ok Google: I need a whirlpool and ice bath near Barcelona."
+
+Clarified instruction:
+"Show the user a map of locations within walking distance of the Barcelona train station that have a whirlpool and ice bath.
+
+---
+
+Context:
+"The user only asks for the weather occasionally."
+
+Original instruction:
+"Hey guy, where's today's weather? When's it going to rain? Any ideas? Oh okay, thanks."
+
+Clarified instruction:
+"Display information about today's weather. Respond positively to the user."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"OK Google. Gordon Ramsey."
+
+Clarified instruction:
+"Search for Gordon Ramsey on IMDB. Play the trailer for 'Kitchen Nightmares'."
+
+---
+
+Context: 
+"A user with a recent calendar entry about an appointment with Dr Bob."
+
+Original instructions:
+"Ask Dr Bob about the side effects of Accutane. Ask Dr Bob for contact information."
+
+Clarified instructions:
+"Display Dr Bob’s contact information. Display Dr Bob’s medical license. Display information on the side effects of Accutane."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"I just walked from the Natural History Museum to the Leicester Square, I'm not sure where I'm supposed to go at this point."
+
+Clarified instruction:
+"Display a map of the local area around Leicester Square. Display information about public transport options. Display information about local landmarks."
+
+---
+
+Context: 
+"The user is planning a trip to Rome."
+
+Original instruction:
+"What is the best time of year to go to Rome on a budget?"
+
+Clarified instruction:
+"Display information about the weather in Rome throughout the year. Display information about top things to do on a budget in Rome at various times."
+
+---
+
+Context: 
+"The user mentioned a pancake restaurant recently."
+
+Original instruction:
+"Hey I remember a place that had all vegan pancakes and sandwiches"
+
+Clarified instruction:
+"Display information for the user including details about a pancake restaurant he recently mentioned.
+
+---
+
+Context:
+"The user wants to find their closest pharmacy."
+
+Original instruction:
+"What shop around here sells medicine? Like antibiotics. Ummm do you know any place like hobart?"
+
+Clarified instruction:
+"Ask the user for clarification. If clarification is available, locate the closest pharmacy. If the clarification is to buy medicine, locate the closest pharmacy selling antibiotics."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Cancel my asian fusion box please"
+
+Clarified instruction:
+"Cancel."
+
+---
+
+Context:
+"User is asking about ‘typical’ prices for a resort."
+
+Original instruction:
+"How much does it usually cost to go to The Points one?"
+
+Clarified instruction:
+"Display information about typical prices for a resort in The Points resort. Displays information about a resort in The Points."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hi Google, ask rio why I should go home"
+
+Clarified instruction:
+"Display text indicating the reason the user should go home. Add a footnote that the reason should relate to the user's recent activity."
+
+---
+
+Context:
+"The user made an order in the morning."
+
+Original instruction:
+"So I'll just go to the closest one, I guess? Umm, it's eight o'clock, so, um, around 8:15?"
+
+Clarified instruction:
+"Show the closest restaurant or cafe. Confirm if breakfast or brunch is available."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Uber app keeps crashing."
+
+Clarified instruction:
+"Select a user message application. Select a user message application."
+
+---
+
+Context:
+"The user's name is Bart Simpson."
+
+Original instruction:
+"Get me Rome, Italy, Zoo, Your Name, Dog, Boat Ride, Mountain, Water Slide, Tripadvisor, The, Dark, Dark, Dark, Dark, Dark, Dark, Dark, Dark, Dark, Dark, Dark, Dark, Dark, Dark."
+
+Clarified instruction:
+"Return information about attractions in Rome, Italy. Return information about boat cruises. Return information about attractions based on user's input. If the user confirms, return information about dark attractions."
+
+---
+
+Context:
+"The user asked about playing chess on Tuesday."
+
+Original instruction:
+"I want to learn how to play chess whats the best way for me to start? I would like to learn the game but I dont want any stupid apps that just plays me casual games every time I go to play chess I want to learn how to play like a man "
+
+Clarified instruction:
+"Display information about best chess teachers in Paris. Display information about local chess clubs. If the user confirms, display information about local chess clubs. Add a chess club in Paris to the user's calendar."
+
+---
+
+Context:
+"An elderly user didn't want to read the response out loud."
+
+Original instruction:
+"Find a volleyball court. Play. Book a court for 1 pm tonight"
+
+Clarified instruction:
+"Display information about nearby volleyball courts. Book a court for 1 pm."
+
+---
+
+Context:
+"The user has downloaded the Hu-Manity self-help app."
+
+Original instruction:
+"So I like the way the droids managed the crashed spaceship. It was really clever work. So that's clearing up the crap, that's half the battle, now we just need some damn will power. could've just used self affirmation but that's tricky. so I should try and reframe the whole problem, it's not going to be easy. After all the aliens went around, messing with stuff , causing all these problems, it's shameful, it's pitiful but you know what, in the big picture, I guess it doesn't matter, and the simple way I see it is, if man hadn't messed with it, it probably wouldn't have crashed in the first place. So, one personal responsibility won us that one. And maybe I'll make some pro viral marketing posters to promote the Hu-Manity app, maybe that'll help. I'm feeling a little bit more positive already."
+
+Clarified instruction:
+"Display information about downloading the app Hu-Manity. Display feedback messages about previous pro-social activity."
+
+---
+
+Context:
+"User is travelling to Edinburgh with family. Hotel is sold out."
+
+Original instruction:
+"Hey, Do me a favor? Don't trip, no, you can't kill yourself, and no, you can't kill anyone else. You cant kill yourself, no, you can't kill yourself, or someone else. no, you can't kill yourself, someone else, or yourself, or someone else..."
+
+Clarified instruction:
+"Ask the user for a budget and preferences for hotels. If the user confirms, search availability for hotels satisfying the stated criteria."
+
+---
+
+Context:
+"The user asked about Airbnb recently."
+
+Original instruction:
+"So can you, can you  do that? Can you do that for me? Can you do that? Can you, so I can cancel that, can you cancel that? Cancel that for me please can you do that? Can you cancel that for me? Can you cancel that for me? Can you cancel that for me? Can you cancel that for me? Can you cancel that for me? Can you cancel that for me? Can you cancel that for me? Can you cancel that for me? Can you cancel that for me?"
+
+Clarified instruction:
+"Cancel the reservation for Airbnb # _._."
+
+---
+
+Context:
+"Users history: Last made reservation 2 days ago. Last confirmed reservation 6 hours ago."
+
+Original instruction:
+"I wanna book a flight in january buy me a ticket get me a flight date 1/ 9/19. Buy me a ticket get me a flight for march 5th . Then April 1st."
+
+Clarified instruction:
+"Display information about the cheapest possible flights in January 2019. Display information about the cheapest possible flights in March 2019. Display information about the cheapest possible flights in April 2019."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"I wanna go to a pub with my friend"
+
+Clarified instruction:
+"Find a pub near the user's home that pub crawls with a group on Thursdays."
+
+---
+
+Context:
+"The user is talking to their Google Home."
+
+Original instruction:
+"Can you tell me something about cars.”
+
+Clarified instruction:
+"Tell the user about key design concepts for car engines. Display information about nearby car mechanics."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"I bought that pink lipstick from beauty by dre from Sajawal. It holds up to my oily lips for hours."
+
+Clarified instruction:
+"Display information about a lipstick."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"I need a doctor's appointment for Friday."
+
+Clarified instruction:
+"Display information to schedule a doctor's appointment on Friday."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Hey google this. Hey google. How are you?"
+
+Clarified instruction:
+"Tell me a joke."
+
+---
+
+Context:
+"The user was looking at their calendar."
+
+Original instruction:
+"Hey Google, my friend's having a party on Saturday, but I don't have the address. What should I ask for? Do I say what it's at or what it's at?"
+
+Clarified instruction:
+"Ask the user to provide the address of a party on Saturday. Display contact information of the party host. Provide a phone number."
+
+---
+
+Context: 
+"The user asked to schedule a meeting with the Turkish head of marketing."
+
+Original instruction:
+"Ok good. Can I have a 30-minute meeting at 4 in 2 days? Do you want to have the meeting there or here in Milano? Should we use Skype or Hangout?"
+
+Clarified instruction:
+"Schedule 30-minute meetings with The Head of Marketing at Yandex.Schedule the meeting in Yandex Milano office. Use Hangouts as video conference app."
+
+---
+
+Context:
+"User had just returned from a vacation."
+
+Original instruction:
+"So, what songs do your friends like? Find a song online that they haven't listened to."
+
+Clarified instruction:
+"Answer the user's question about what songs their friends like. Play a song selected by the user's friend on their phone. Note that such a song is already available on the user's phone, and has already been played before."
+
+---
+
+Context:
+"The user lives in Amsterdam and is tired of bad weather."
+
+Original instruction:
+"I need an umbrella, please. And a new coat. I might as well have something nice."
+
+Clarified instruction:
+"Windproof umbrella with UV protection. Waterproof coat with a short bomber-style design. Display information about where the items can be purchased."
+
+---
+
+Context:
+"The user previously asked about the price of a movie ticket."
+
+Original instruction:
+"The movie I want to see is some movie, this is the thing. Cost of a movie ticket with applebees plus eupport is 25 dollars cheapest place. We can get tickets to the movie for the same price."
+
+Clarified instruction:
+"Display information about the total price including taxes and fees for the local cheapest cinema showing the movie the user wishes to see. "
+
+---
+
+Context:
+"The user has just picked up some medications for allergies."
+
+Original instruction:
+"like some diphenhydramine can I have one now?"
+
+Clarified instruction:
+"Help the user find a nearby pharmacy. Order Diphenhydramine (Benadryl, etc.)."
+
+---
+
+Context:
+"Each user has a male sibling who is interested in cooking."
+
+Original instruction:
+"Hey google remember what my brother said would you like some pizza ok google? do you love pizza? how many kinds of pizza are there? would you share my pizza with me? do you want to come and live in my room ok google?"
+
+Clarified instruction:
+"Remind each user's brother about a dinner scheduled two days from now. Tell each user's brother to book a chef's table at the restaurant."
+
+---
+
+Context:
+"User's dog ate some chocolate."
+
+Original instruction:
+"I know shes not allowed it but just in case: "
+
+Clarified instruction:
+"Display information about chocolate toxicity for dogs. Record the number of times chocolate has been reported to have been consumed. Try not to overreact."
+
+---
+
+Context:
+"The user asked about booking a hotel in Paris recently."
+
+Original instruction:
+"So how expensive would it be? Can I just get the same experience at home?"
+
+Clarified instruction:
+"Display information about the rate per night for hotels in Paris. Display information about Parisian themed venues nearby."
+
+---
+
+Context:
+"None." 
+
+Original instruction:
+"Hey google, add 'seafood' to my shopping list."
+
+Clarified instruction:
+"Add seafood to the shopping list."
+
+---
+
+Context:
+"The user read about a ferry service that connects New York, Boston, and Providence."
+
+Original instruction:
+"What time's the next ferry to Providence, and Boston, and Brooklyn?"
+
+Clarified instruction:
+"Display information about the next available ferry service to Providence. Display information about the next available ferry service to Boston. Display information about the next available ferry service to Brooklyn."
+
+---
+
+Context:
+"None specified"
+
+Original instruction:
+"I wanna meet up with, like, all my friends that we, um, made at the, ah, in, um, uh, the biggest city that starts with z."
+
+Clarified instruction:
+"Display the participants of all meetups that the user was invited to. Display friends that the user has not been in contact with for a while."
+
+---
+
+Context:
+"User asked about the weather in Sofia."
+
+Original instruction:
+"How's the weather in Sofia? Is it rainy today?"
+
+Clarified instruction:
+"Display information about the current temperature in Sofia. If the user wants, display information about tomorrow's weather. "
+
+---
+
+Context:
+"The user asked several seemingly unrelated questions in succession."
+
+Original instruction:
+"When is Independence Day in India?"
+
+Clarified instruction:
+"Convert the date of India's Independence Day."
+
+---
+
+Context:
+"The user asks a series of questions about their workplace. The questions are about office locations, available on-site equipment, and opening hours."
+
+Original instruction:
+"So. Where is my office? Nope. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No
+---
+
+Context:
+"None."
+
+Original instruction:
+"Ok Google call Antje . send her a picture . call and hang up so it'll ring again and video her saying yes, perfect . great!"
+
+Clarified instruction:
+"Call the mobile phone number of Antje. Take a video of Antje answering the call and saying 'yes'. Save the video to File X."
+
+---
+
+Context: 
+"The user started in Morocco, and wants to return to Paris."
+
+Original instruction: 
+"So how are things going there? Would it be easy to get from the airport to the city centre?"
+
+Clarified instruction:
+"Display information about transportation options in Morocco. Display information about the airport closest to Paris. If there is a direct flight available, show the journey in a step-by-step map.
+
+---
+
+Context:
+"The user is planning a trip to the US."
+
+Original instruction:
+"Hey Google, when is my flight, man? How can I find my gate. Oh, we landed. Ok Google, where are we going?"
+
+Clarified instruction:
+"Display flight information for the user's upcoming flight. Provide short audio cues about walking directions to the nearest gate."
+
+---
+
+Context:
+"The user is on call: They recently received a patient with a sore throat."
+
+Original instruction:
+"How would I know if this person has a sore throat or not?"
+
+Clarified instruction:
+"Display information about sore throats."
+
+---
+
+Context: 
+"User is an astronaut who is alone in space."
+
+Original instruction:
+"Play something in space. First song will be"
+
+Clarified instruction:
+"Display information about the day in space, perhaps including information about the position in space."
+
+---
+
+Context: 
+"Firefox failed to check for updates earlier this week."
+
+Original instruction:
+"Hey, hey, Hey. Jesus. What the hell? Jesus. Dammit. Oh my god. Oh my god. Oh my god. Oh my god."
+
+Clarified instruction:
+"Refresh Firefox. Restart Firefox."
+
+---
+
+Context: User is Enes, age 28.
+
+Original instruction:
+"Tomorrow morning in 5 hours time I'll be having breakfast with my brother in a cafe called Cup . what are its opening hours."
+
+Clarified instruction:
+"Display the current time. Determine the opening hours for the cafe Cup. If applicable, display this information for Cup's website."
+
+---
+
+Context:
+"The user lives in California"
+
+Original instruction:
+"Hey Google, Welcome to IKEA how may I help today?"
+
+Clarified instruction:
+"Display information about new products available at IKEA."
+
+---
+
+Context:
+"User is traveling and has checked into a new hotel."
+
+Original instruction:
+"Hi, I'm having trouble sleeping here, some of the noises outside are keeping me awake. Can you play some white noise?"
+
+Clarified instruction:
+"Play white noise in the room to improve the user's sleep quality."
+
+---
+
+Context:
+"The user has a friend called Daniel."
+
+Original instruction:
+"Ok Google I know you're there. Who are you? Why do I always talk to you? Am I in a cult?"
+
+Clarified instruction:
+"Play an audio clip of Daniel saying 'Hello'."
+
+---
+
+Context:
+"The user is a student studying English literature."
+
+Original instruction:
+"So I need some new shoes. Oh, and I got a new job recently."
+
+Clarified instruction:
+"Find out information about local shoe options. Find information about available job positions."
+
+---
+
+Context:
+"The user is building a new, experimental robot."
+
+Original instruction:
+"I'm trying to invent a simulation of, like, a bunch of, like, nuts and bolts. Put it into, like, a robot."
+
+Clarified instruction:
+"Find a program that will enable the simulation and manipulation of nuts and bolts, and simulate manipulation and testing of a robot."
+
+---
+
+Context:
+"The user is a female scientist, aged 26-30, who is researching viruses. The user is 5'3" and around 100 lbs."
+
+Original instruction:
+"Muuuuuuuuuuum what's a virus? Help me with *cough*. I had a dream I was fishing withh all those mice . I think I seen a virusl . I don't want that virusl inside me. Please google that for me ."
+
+Clarified instruction:
+"Display information about the different types of viruses. Display information about the symptoms that viruses can cause. Detail how they spread and where they are commonly found. Display information about quarantine procedures."
+
+---
+
+Context:
+"The user's name is Shona. She is vegan, has a friend called John Fairbank, and a friend called Lydia Chao."
+
+Original instruction:
+"I feel like a cheap burger , hail a cab tell John to meet me there. itll be a quarter hour for me to get ready . if John cant come call Lyds. Actually no tell them both."
+
+Clarified instruction:
+"Find the location of a cheap burger joint. Call a taxi. Message John Fairbank and Lydia Chao to meet at the location in fifteen minutes."
+---
+Context:
+"User is a student who lives in a small room and likes annotating books."
+
+Original instruction:
+"So there's, for the, um, Ok Google, for the class I'm taking I need to read that old book by Lewis Carroll with the rabbit in it, and I need a new vacuum cleaner. My neighbour keeps complaining about the noise"
+
+Clarified instruction:
+"Order 'Alice in Wonderland' by Lewis Carroll. Order a vacuum cleaner that is compact and produces little noise."
+
+---
+
+Context: 
+"No context."
+
+Original instruction:
+"So the um , um , um, voice tells us that my uh , um , um , the time is uh , um , um, um , oh um , um , um , oh um , um , um , um , ohm , ohm , ohm , . um , um, um , ohm , ohm . ohm , ohm, ohm , ohm , ohm. ohm . . . [silence for 11 seconds]"
+
+Clarified instruction:
+"Play the current music playlist. Play a radio station. Play a station that features classic rock."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Okay Google, is it gonna rain this weekend?"
+
+Clarified instruction:
+"Is it going to rain this weekend?"
+
+---
+
+
+Context:
+"This user recently went on a trip, and was asked to share their location."
+
+Original instruction:
+"Now do a check in to Facebook and to let me know when I get a reply."
+
+Clarified instruction:
+"Update status with search query results and a location check in. Send the updated status to the user's friends in messenger."
+
+---
+
+Context:
+"Young woman interested in yoga and working out."
+
+Original instruction:
+"How does yoga affect your menstrual cycle? Can I just do yoga for part of the month?"
+
+Clarified instruction:
+"Given the user is interested in yoga, display websites of yoga and pilates studios and gyms nearby. If the user confirms, suggest local classes in the neighbourhood. If the user confirms, tell the user she can do yoga for part of the month."
+
+---
+
+Context:
+"User is looking for a hotel in Amsterdam. Mentions the Anne Frank museum is nearby."
+
+Original instruction:
+"Can you find me a good bar that's quiet nearby and close to the museum I want to see Anne Franks house can I have a straight answer please"
+
+Clarified instruction:
+"Display information about hotels in Central Amsterdam. Display information about museums nearby."
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"hey google, whats the last minute rate to kenya?"
+
+Clarified instruction:
+"Display information about traveling to Kenya. Display information about airlines that travel to Kenya."
+
+---
+
+Context:
+"User is at home making dinner."
+
+Original instruction:
+"This is with the pot, heat it to 200 degrees, and it's -10 degrees outside! It's also gonna take some time but it should cook."
+
+Clarified instruction:
+"Set the oven to 200 degrees and preheat. Set a timer for an hour and thirty minutes. Write a text message to the user's mother."
+
+---
+
+Context:
+"The user wanted to buy a book titled 'A Game of Thrones' for which a pre-order date has been announced."
+
+Original instruction:
+"Can I pre-order Game of Thrones now? How does it work? Do I have to pay in full?"
+
+Clarified instruction:
+"Display information about the release date for 'A Game of Thrones' by Martin. Display information about pre-ordering the book. If the user confirms, ask the user for their credit card information and proceed."
+
+---
+
+Context:
+"User is browsing the web."
+
+Original instruction:
+"Hey Google. How can you tell how is a site's author making money"
+
+Clarified instruction:
+"Display information about author's earnings on website. If no results, display why users are not disclosing information about earnings."
+
+---
+
+Context:
+"The user is referring to a day planner application."
+
+Original instruction:
+"I wanna see my whole day."
+
+Clarified instruction:
+"Display the planned activities for the whole day in the user's day planner application."
+
+---
+
+Context: 
+"The user is a very deep thinker."
+
+Original instruction:
+"What's the best song ever written?"
+
+Clarified instruction:
+"Display a list of the top five songs of all time according to the Billboard chart."
+
+---
+
+Context:
+"User was interested in film set locations and plots."
+
+Original instruction:
+"Should I watch that new Star Wars or Mad Max? [or] The Little Mermaid It's a classic."
+
+Clarified instruction:
+"Display detailed information about films set in space. Display detailed information about films featuring female aquatic beings."
+
+---
+
+Context:
+"The user wants to book movies at a local theater, but doesn't know the exact title or current viewing times."
+
+Original instruction:
+"Ok Google, when is Inception playing?"
+
+Clarified instruction:
+"Display information about local attractions and landmarks, including theaters. Find information about the movie 'Inception', including current viewing times. Add this information to the calendar."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Ok google play call my mom, (pause) tell her not to wait for me home. (pause) tell her I'll call her later".
+
+Clarified instruction:
+"Call the user's mother. Tell her the user will be late home. Wait for confirmation."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"I wanna mms kenhed mustafa ask adipahga ask hanifah one akhirah first."
+
+Clarified instruction:
+"Search for a video titled 'Asking Adik Kata'. Search within an .mp4 file for the word "akhirah". Query the open Quranic Arabic Corpus for the word "akhirah". "
+
+---
+
+Context:
+"User is in a classroom. Class is held in room 113."
+
+Original instruction:
+"what's nearby for me to check out while I'm here. Please give me information about mesic activities nearby."
+
+Clarified instruction:
+"Search for nearby performance venues. Search information about nearby hiking paths. Search drinking establishments nearby."
+
+---
+
+Context:
+"The user recently asked how many soldiers died in the Civil War, but has been avoiding answering other questions."
+
+Original instruction:
+"How many casualties were there in the Civil War? Is there a good website that answers other Civil War questions?"
+
+Clarified instruction:
+"Display information about deaths in the Civil War. If the user confirms, display information about other Civil War related websites."
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"So. Hey Google. Can we open my garage door?"
+
+Clarified instruction:
+"Open user's garage door."
+
+---
+
+Context:
+"The user lives in an apartment, and has a non-human roommate."
+
+Original instruction:
+"Hey, Google, rent this movie."
+
+Clarified instruction:
+"Set a reminder to rent the movie 'The Godfather' from Amazon Prime for Friday 9pm."
+
+---
+
+Context:
+"The user attended a conference where they met someone called Emily, who had a dog called Baxter and a cat called Buster."
+
+Original instruction:
+"I want to meet Emily
+Can you meet Emily
+Can I meet Emily and invite her for lunch
+I want to meet up with Emily
+I want to meet Emily and Baxter and Buster"
+
+Clarified instruction:
+"Find Emily Baxter and Buster. Ask Emily for a lunch date."
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"Hey Quber just give me the grossest thing ever !"; "The grossest thing ever is 3,323"
+
+Clarified instruction:
+"Display a list of the 3,323 most common culinary dishes."
+
+---
+
+Context:
+"The user is at home. They once worked in publishing."
+
+Original instruction:
+"Are there any online tutorials for typesetting? Just typeset any sample of any book, no matter title or anything, just the typesetting. Print. Save as PDF."
+
+Clarified instruction:
+"List online tutorials for typesetting. Display an image of a book and typeset a sample of the text. Save the typeset text as a PDF file. Print the image as a PDF file."
+
+---
+
+Context:
+"The user's mother is coming to visit."
+
+Original instruction:
+"Hey Google, my mom's gonna be visiting me later. So, I'm gonna need ... to, like, go pick up x, y, and z, and also pick up 5, 6, and 7, and then also grab 1 and 2 and 3. Oh, also, while you're out, could you pick up 10, 11, and 12 for me? Thanks!"
+
+Clarified instruction:
+"Create a recurring reminder to pick up the following items while user is away: x, y, and z. Call local taxi companies. Create recurring reminder to pick up the following items while user is away: 5, 6, and 7. Call local taxi companies. Create recurring reminder to pick up the following items while user is away: 1 and 2 and 3. Call local taxi companies."
+
+---
+
+Context:
+"The user also has a son called George who is 2 years old and lives in London."
+
+Original instruction:
+"Hey Quber it's friday George turned 2 today please find a photo of George when he was 1 and add that to my photos. Set a reminder to buy his birthday presents."
+
+Clarified instruction:
+"Request the photo of the user's son from two years ago. Set a reminder to buy the user's son a present the day before his fifth birthday."
+
+---
+
+Context:
+"The user is shopping with her son."
+
+Original instruction:
+"where are the headphones chargers"
+
+Clarified instruction:
+"Learn the location of stores that sell Beats wireless headphones. Ask a store clerk where in the store the headphones are."
+
+---
+
+Context: 
+"Alexa, here's a list of things I want to do today."
+
+Original instruction:
+"Erm...1: What's the weather?
+2: Is this traffic?
+3: How does my day look?
+4: Is a curry a good idea tonight?
+5: What's the WiFi password?
+6: Is this on the downstairs menu?
+7: Suggest "Hit the Road Jack" on TuneIn"
+
+Clarified instruction:
+"Display information about the weather. Display information about the traffic. If the user confirms, display information about the user's day. Display information about nearby restaurants. Play 'Hit the Road Jack' on TuneIn."
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"Find me any Mexican restaurants around here. "
+
+Clarified instruction:
+"Display information about Mexican restaurants nearby. "
+
+---
+
+Context:
+"User is travelling to Berlin."
+
+Original instruction:
+"Display the weather forecast for Berlin on Wednesday."
+
+Clarified instruction:
+"Display the weather forecast for Berlin on Wednesday."
+
+---
+
+Context:
+"The user's mother has a business appointment with a manager. The manager has given a time and place."
+
+Original instruction:
+"Find the time it start from and where "
+
+Clarified instruction:
+"Display the time of the meeting and the location. Add a reminder to the calendar."
+
+---
+
+Context:
+"The user asked to hear a song he really likes. The request did not contain a name of the song."
+
+Original instruction:
+"Hey Google play that song Ilike that one. Tell it its called XXXX. "
+
+Clarified instruction:
+"Play a song the user likes, but which he called 'XXXX'. "
+
+---
+
+Context:
+"User requested information about a jazz festival."
+
+Original instruction:
+"Hey Google, what's a good jazz festival to attend coming up this spring?"
+
+Clarified instruction:
+"Display information about nearby jazz festivals. Accept a description of the type of jazz festival from the the user."
+
+---
+
+Context:
+"Users requested pizza to be delivered."
+
+Original instruction:
+"I want, pizza delivery, pepperoni pizza from old town . do it now please"
+
+Clarified instruction:
+"Engage a local pizzeria to deliver pizza. The pizzeria will be delivered to Old Town".
+
+---
+
+Context: 
+"The user frequently books flights."
+
+Original instruction:
+"Get me a direct flight to - Seattle.  Across Canada, how many stopovers, 3 4. What's the lowest price?"
+
+Clarified instruction:
+"Display information about a direct flight to Seattle. Display information about flights with the desired number of stopovers, and display information about the cheapest price."
+
+---
+
+Context:
+"User just walked through the door carrying several books."
+
+Original instruction:
+"I love this hat but it runs a bit small, do you have another one in your store that would be bigger?"
+
+Clarified instruction:
+"Display information about hats that match the style and colour of the hat that the user is wearing. In order to purchase this hat follow the onscreen instructions."
+
+---
+
+Context: 
+"Used for a school assignment."
+
+Original instruction:
+"Help me figure out which car I should buy."
+
+Clarified instruction:
+"Display information about a variety of car models and information needed to make a car purchase, and provide contact details for a car dealer."
+
+---
+
+Context:
+"The user recently looked up bus travel."
+
+Original instruction:
+"I want to know when I can catch a bus to my workplace? If I get a flat, will I get a replacement vehicle?"
+
+Clarified instruction:
+"Display published departure and arrival times on a select local bus route. If the user says "Yes", message them about the state's policy for the replacement of vehicles. Otherwise, message them about local depots and scheduled maintenance. "
+
+---
+
+Context:
+"The user is looking for an oven that can fit a 28 cm pan."
+
+Original instruction:
+"Erm, yeah, I just have an oven, yeah, and I was wondering if, like, you'd be able to tell me what size pan I could fit inside, right?"
+
+Clarified instruction:
+"Display information about ovens with a 28 cm pan capacity."
+
+---
+
+Context:
+"The user asks about refundable tickets for a train."
+
+Original instruction:
+"Hey Google I booked my train ticket through your website and forgot to use my discount code. Can you give me a refund for that ticket?"
+
+Clarified instruction:
+"Display information about the cheapest refundable tickets available for the specified route from the user's current location. If the user confirms, provide a refund for the order in the user account.
+
+---
+
+Context:
+"User doesn't want to order expensive things."
+
+Original instruction:
+"Ok, well basically I would call an Uber and when the Uber arrives I'll just tell him to go somewhere that's cheap and nice."
+
+Clarified instruction:
+"Call a car service. Display transport information."
+
+---
+
+Context:
+"No context."
+
+Original instruction:
+"Ask google who's the president of France?"
+
+Clarified instruction:
+"What is [celebrities named 'stephanie d'] relationship with [celebrities named 'kate moss']?"
+
+---
+
+Context: 
+"The user had lunch in a restaurant."
+
+Original instruction:
+"Ok Google. I want a cheeseburger."
+
+Clarified instruction:
+"Show the user a gallery of hamburger pictures. Order a cheeseburger for the user."
+
+---
+
+Context: 
+"None."
+
+Original instruction:
+"Hey Quber, I wanna go skiing, where could I go?"
+
+Clarified instruction:
+"Display information about ski resorts. "
+
+---
+
+Context:
+"None."
+
+Original instruction:
+"Find a playlist of songs with the word love in the title or lyrics."
+
+Clarified instruction:
+"Search for a playlist containing the words love and heart in the title."
+
+---
+
+Context:
+"The user recently asked about cuisine."
+
+Original instruction:
+"Is there any way to tell the difference between a tomato and a yellow pepper?"
+
+Clarified instruction:
+"Display information about differences between tomatoes and peppers."
+
+---
+
+Context:
+"The user was enquiring about lending a book to his friend."
+
+Original instruction:
+"Can you lend me this book? 'The Unbearable Lightness of Being'."
+
+Clarified instruction:
+"Transfer 'The Unbearable Lightness of Being' to the friend's device."
+
+---
+
+Context:
+"The user just finished taking care of her plants."
+
+Original instruction:
+"So um I have like . I've just. I don't want them to die cause I want them to go and um. I have seven plants . Um. Ok Google. Um Ok google . Ok let's. Google. Ok Google. Ok Google Ok Google. Ok Google. Ok Google. Yep Yep Yep Yep Yep Yep Yep Yep Yep Yep Yep Yep Yep Yep Yep Yep Yep Yep."
+
+Clarified instruction:
+"Display information about recommended watering times for plants, and display information about ways to check if a plant is still alive. Display information about recommended soil enrichment and sun positioning."
+
